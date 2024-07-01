@@ -1,0 +1,14 @@
+.container {
+  width: 40%;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 200px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-top: 3px solid royalblue;
+}
